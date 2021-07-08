@@ -4,3 +4,9 @@ Japanese car number plates give information about where a car was registered and
 ![](https://github.com/Diwas524/Japanese-Fake-License-Plate-Generation-/blob/main/FAKE.png)
 
 
+# Reference 
+
+1. http://www.licenseplatemania.com/landenpaginas/japan.htm
+2. https://www.fuwong.com/jdm-license-plate-introduction-japanese-license-plate/
+3. http://www.licenseplatemania.com/landenpaginas/japan.htm
+4. https://www.japanallover.com/2012/04/japanese-car-number-plates/
